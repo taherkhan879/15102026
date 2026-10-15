@@ -1,0 +1,21 @@
+
+12345678910111213141516171819
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": false,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "always",
+
+
+
+Terminal 0
+
+
+
+Workspace ready! Loaded in 31.9 seconds
+value: React.SetStateAction<{ uniqueNo: number; name: string; commentText: string; }[]>, , , hint
